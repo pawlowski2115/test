@@ -1,0 +1,12 @@
+{
+    "Marka": "Solaris",
+    "Rok produkcji": 2012,
+    "Potrzebny przegląd": false,
+    "Mnoznik": 0.8,
+    "Trasa": {
+        "Przystanki": 45,
+        "Kilometry": 28,
+        "Cena biletu": 2.85
+    },
+    "Kierowcy": ["Janusz Kowalski", "Andrzej Dobrowolski", "Maurycy Daniel"]
+}
